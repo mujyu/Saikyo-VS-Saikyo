@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"拠点","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"拠点","order":1,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":2,"expanded":false,"name":"バトル室","order":2,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":3,"expanded":true,"name":"ゲーム概要説明マップ","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"キャラ選択マップ","order":4,"parentId":0,"scrollX":817,"scrollY":461}
